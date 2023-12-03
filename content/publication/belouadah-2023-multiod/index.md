@@ -12,6 +12,6 @@ authors:
 date: '2023-01-01'
 publishDate: '2023-12-03T12:49:23.418190Z'
 publication_types:
-- article-journal
+- preprint
 publication: '*arXiv preprint arXiv:2309.05334*'
 ---
