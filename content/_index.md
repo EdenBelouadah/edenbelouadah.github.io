@@ -75,9 +75,9 @@ sections:
               * Write optimized code with proper unit tests and CD/CI pipelines
               * Write scientific publication to validate the proposed solutions
         - title: Research Ph.D. Student
-          company: IMT Atlantique & CEA-LIST
-          company_url: ''
-          company_logo: org-x
+          company: CEA-LIST & IMT Atlantique
+          company_url: 'https://list.cea.fr/en/'
+          company_logo: cea
           location: Paris
           date_start: '2018-12-01'
           date_end: '2021-12-01'
