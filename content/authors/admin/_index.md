@@ -29,9 +29,9 @@ bio: Hi! I am Eden Belouadah, an ML Research Scientist at Datakalab. I have 5 ye
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Natural Language Processing
+  # - Artificial Intelligence
+  # - Computer Vision
+  - Generative AI
   - Continual Learning
   - Object Detection
   - Stable Diffusion
@@ -49,7 +49,7 @@ education:
     - course: MSc in Artificial Intelligence
       institution: USTHB, Algeria
       year: 2017
-    - course: BSc in Mathematics and Computer Science
+    - course: BSc in Maths and Computer Science
       institution: USTHB, Algeria
       year: 2015
 
