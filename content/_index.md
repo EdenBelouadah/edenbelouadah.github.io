@@ -71,10 +71,12 @@ sections:
           date_start: '2021-12-11'
           date_end: ''
           description: |2-
-              * Propose and implement Continual Learning solutions for real-time Object detection
-              * Deploy Models on the Edge
-              * Write optimized code with proper unit tests and CD/CI pipelines
-              * Write scientific publication to validate the proposed solutions
+              * Use compression techniques on object detection models and deploy them on the edge
+              * Propose continual learning methods for context adaptation without catastrophic forgetting
+              * Work on large language models and diffusion models
+              * Write CD/CI pipelines, unit tests, and master VSCode debugging tool
+              * Deliver on-demand projects to clients
+              * Write a scientific publication to validate academic results
         - title: Researcher Ph.D. Student
           company: CEA-LIST & IMT Atlantique
           company_url: 'https://list.cea.fr/en/'
