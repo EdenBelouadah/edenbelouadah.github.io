@@ -24,5 +24,5 @@ url_code: 'https://github.com/EdenBelouadah/class-incremental-learning/tree/mast
 
 image:
   caption: 'Image credit: (featured.png)'
-  preview_only: true
+  # preview_only: true
 ---
