@@ -65,7 +65,7 @@ sections:
         - title: Deep Learning Researcher
           company: Datakalab
           company_url: 'https://datakalab.com/'
-          company_logo: org-gc
+          company_logo: da
           location: Paris
           date_start: '2021-12-11'
           date_end: ''
