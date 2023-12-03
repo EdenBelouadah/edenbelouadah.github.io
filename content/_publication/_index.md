@@ -11,7 +11,7 @@ math : false
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-banner:
+header:
   caption: ''
   image: ''
 ---
