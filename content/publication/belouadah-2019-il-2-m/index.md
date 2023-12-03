@@ -23,6 +23,6 @@ url_code: 'https://github.com/EdenBelouadah/class-incremental-learning/tree/mast
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
 image:
-  caption: 'Image credit: [**Unsplash**](featured.png)'
-  preview_only: false
+  caption: 'Image credit: (featured.png)'
+  preview_only: true
 ---
