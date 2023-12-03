@@ -2,6 +2,8 @@
 featured: true
 highlight : false
 math : false
+view: 2
+
 
 title: 'Il2m: Class incremental learning with dual memory'
 authors:
