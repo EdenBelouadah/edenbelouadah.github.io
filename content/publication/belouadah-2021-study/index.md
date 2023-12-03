@@ -1,4 +1,9 @@
 ---
+featured: true
+highlight : false
+math : false
+view: 2
+
 title: A comprehensive study of class incremental learning algorithms for visual tasks
 authors:
 - Eden Belouadah

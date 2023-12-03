@@ -1,4 +1,9 @@
 ---
+featured: true
+highlight : false
+math : false
+view: 2
+
 title: 'ScaIL: Classifier Weights Scaling for Class Incremental Learning'
 authors:
 - Eden Belouadah

@@ -1,4 +1,9 @@
 ---
+featured: true
+highlight : false
+math : false
+view: 2
+
 title: 'MultIOD: Rehearsal-free Multihead Incremental Object Detector'
 authors:
 - Eden Belouadah

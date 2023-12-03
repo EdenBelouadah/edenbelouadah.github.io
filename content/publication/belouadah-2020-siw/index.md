@@ -1,4 +1,9 @@
 ---
+featured: true
+highlight : false
+math : false
+view: 2
+
 title: Initial Classifier Weights Replay for Memoryless Class Incremental Learning
 authors:
 - Eden Belouadah

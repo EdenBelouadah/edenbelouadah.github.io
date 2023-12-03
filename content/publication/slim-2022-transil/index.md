@@ -1,4 +1,9 @@
 ---
+featured: true
+highlight : false
+math : false
+view: 2
+
 title: Dataset Knowledge Transfer for Class-Incremental Learning Without Memory
 authors:
 - Habib Slim
