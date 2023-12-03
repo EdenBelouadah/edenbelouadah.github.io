@@ -1,5 +1,5 @@
 ---
-featured: true
+featured: false
 highlight : false
 math : false
 view: 2
