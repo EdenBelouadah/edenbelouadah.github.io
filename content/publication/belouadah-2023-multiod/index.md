@@ -11,7 +11,6 @@ authors:
 - Kevin Bailly
 date: '2023-01-01'
 publishDate: '2023-12-03T12:49:23.418190Z'
-publication_types:
-- preprint
+publication_types: ["article"]
 publication: '*arXiv preprint arXiv:2309.05334*'
 ---
