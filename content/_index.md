@@ -74,7 +74,7 @@ sections:
               * Deploy Models on the Edge
               * Write optimized code with proper unit tests and CD/CI pipelines
               * Write scientific publication to validate the proposed solutions
-        - title: Research Ph.D. Student
+        - title: Researcher Ph.D. Student
           company: CEA-LIST & IMT Atlantique
           company_url: 'https://list.cea.fr/en/'
           company_logo: cea
