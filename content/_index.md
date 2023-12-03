@@ -62,27 +62,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Deep Learning Researcher
+          company: Datakalab
+          company_url: 'https://datakalab.com/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Paris
+          date_start: '2021-12-11'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              # Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Propose and implement Continual Learning solutions to real-time Object detection models.
+              * Deploy Models on the Edge
+              * Write optimized code with proper unit tests and CD/CI pipelines
+              * Write scientific publication to validate the proposed solutions
+        - title: Research Ph.D. Student
+          company: IMT Atlantique & CEA-LIST
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Paris
+          date_start: '2018-12-01'
+          date_end: '2021-12-01'
+          # description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              # Responsibilities include:
+
+              * Propose state-of-the-art Continual Learning solutions to image classification
+              * Write several scientific publications to validate the proposed methods
+              * Give Deep Learning classes to Master's students (Centrale Supélec School)
+              * Give Operating system classes to Bachelor's students (Paris-Saclay University)
     design:
       columns: '2'
   # - block: accomplishments
