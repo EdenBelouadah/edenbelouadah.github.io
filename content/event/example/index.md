@@ -41,7 +41,7 @@ links:
   #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/slides.pdf'
+url_slides: 'uploads/uom.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
