@@ -1,5 +1,8 @@
 ---
 featured: true
+highlight : false
+math : false
+
 title: 'Il2m: Class incremental learning with dual memory'
 authors:
 - Eden Belouadah
