@@ -28,14 +28,15 @@ organizations:
 bio: Hi! I am Eden Belouadah, an ML Research Scientist at Datakalab. I have 5 years of experience working on continual learning for image classification and object detection. At Datakalab, I am part of the context adaptation team. Our goal is to compress large object detection models and deploy them on the edge. I previously worked on fall detection and continuous optimization. Currently, I am also working on Large Language Models (LLMs) and Stable Diffusions.
 
 # Interests to show in About widget
-interests:
+experience:
   # - Artificial Intelligence
   # - Computer Vision
-  - Generative AI
   - Continual Learning
   - Object Detection
+  - Generative AI
   - Stable Diffusion
   - Large Language Models
+  - Fall Detection
 
 # Education to show in About widget
 education:
