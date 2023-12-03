@@ -70,7 +70,7 @@ sections:
           date_start: '2021-12-11'
           date_end: ''
           description: |2-
-              * Propose and implement Continual Learning solutions to real-time Object detection models.
+              * Propose and implement Continual Learning solutions for real-time Object detection
               * Deploy Models on the Edge
               * Write optimized code with proper unit tests and CD/CI pipelines
               * Write scientific publication to validate the proposed solutions
