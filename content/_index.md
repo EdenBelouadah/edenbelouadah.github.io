@@ -86,10 +86,11 @@ sections:
           date_end: '2021-12-01'
           # description: Taught electronic engineering and researched semiconductor physics.
           description: |2-
-              * Propose state-of-the-art Continual Learning solutions to image classification
+              * Propose state-of-the-art Continual Learning solutions for image classification
               * Write several scientific publications to validate the proposed methods
               * Give Deep Learning classes to Master's students (Centrale Supélec School)
               * Give Operating system classes to Bachelor's students (Paris-Saclay University)
+              * Supervise Interns and collaborate with other Ph.D. students
     design:
       columns: '2'
   # - block: accomplishments
