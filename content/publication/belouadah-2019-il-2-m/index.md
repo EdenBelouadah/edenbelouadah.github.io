@@ -31,7 +31,14 @@ url_code: 'https://github.com/EdenBelouadah/class-incremental-learning/tree/mast
 #   caption: 'Image credit: (featured.png)'
   # preview_only: true
 
-<img src=featured.png width="360" height="280">
+image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+  img: 'featured.png'
+  img_width: 360
+  img_height: 280
 
+# <img src="featured.png" alt="Featured Image" width="360" height="280">
 
 ---
