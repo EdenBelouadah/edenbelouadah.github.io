@@ -42,3 +42,4 @@ image:
 # <img src="featured.png" alt="Featured Image" width="360" height="280">
 
 ---
+<img src="featured.png" alt="Featured Image" width="360" height="280">
