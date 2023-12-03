@@ -70,8 +70,6 @@ sections:
           date_start: '2021-12-11'
           date_end: ''
           description: |2-
-              # Responsibilities include:
-
               * Propose and implement Continual Learning solutions to real-time Object detection models.
               * Deploy Models on the Edge
               * Write optimized code with proper unit tests and CD/CI pipelines
@@ -85,8 +83,6 @@ sections:
           date_end: '2021-12-01'
           # description: Taught electronic engineering and researched semiconductor physics.
           description: |2-
-              # Responsibilities include:
-
               * Propose state-of-the-art Continual Learning solutions to image classification
               * Write several scientific publications to validate the proposed methods
               * Give Deep Learning classes to Master's students (Centrale Supélec School)
