@@ -100,7 +100,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:eden.belouadah@yahoo.fr
+    # link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
